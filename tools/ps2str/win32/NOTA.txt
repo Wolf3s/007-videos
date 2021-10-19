@@ -1,0 +1,61 @@
+C:\Users\andre\Desktop\007 - Quantum of Solace\INTRO.pss
+demux MPEG2 program stream (pss) file
+demux pss file...
+stream id: 0xe0 sub stream id: 0x00000000
+stream id: 0xbd sub stream id: 0xffa10001
+stream id: 0xbd sub stream id: 0xffa10002
+stream id: 0xbd sub stream id: 0xffa10003
+stream id: 0xbd sub stream id: 0xffa10004
+
+demux result:
+num of pack        :       7984
+num of PES packet  :      31933
+program stream rate:     752000 (byte/sec)  6016 (kbit/sec)
+num of stream      :          6
+
+stream             : MPEG Video:0 (0xe0)
+num of packet      :      21223
+stream file name   : C:\Users\andre\Desktop\007 - Quantum of Solace\INTRO_video_0.m2v
+
+stream             : AD-PCM Stream:0 (0xbd, 0xffa10000)
+num of packet      :       2142
+stream file name   : C:\Users\andre\Desktop\007 - Quantum of Solace\INTRO_vag_0.ads
+
+stream             : AD-PCM Stream:1 (0xbd, 0xffa10001)
+num of packet      :       2142
+stream file name   : C:\Users\andre\Desktop\007 - Quantum of Solace\INTRO_vag_1.ads
+
+stream             : AD-PCM Stream:2 (0xbd, 0xffa10002)
+num of packet      :       2142
+stream file name   : C:\Users\andre\Desktop\007 - Quantum of Solace\INTRO_vag_2.ads
+
+stream             : AD-PCM Stream:3 (0xbd, 0xffa10003)
+num of packet      :       2142
+stream file name   : C:\Users\andre\Desktop\007 - Quantum of Solace\INTRO_vag_3.ads
+
+stream             : AD-PCM Stream:4 (0xbd, 0xffa10004)
+num of packet      :       2142
+stream file name   : C:\Users\andre\Desktop\007 - Quantum of Solace\INTRO_vag_4.ads
+
+
+
+C:\Users\andre\Desktop\007 - Quantum of Solace\DEMO.pss
+demux MPEG2 program stream (pss) file
+demux pss file...
+stream id: 0xe0 sub stream id: 0x00000000
+stream id: 0xbd sub stream id: 0xffa10000
+
+demux result:
+num of pack        :       2466
+num of PES packet  :       9862
+program stream rate:     550400 (byte/sec)  4403 (kbit/sec)
+num of stream      :          2
+
+stream             : MPEG Video:0 (0xe0)
+num of packet      :       8957
+stream file name   : C:\Users\andre\Desktop\007 - Quantum of Solace\DEMO_video_0.m2v
+
+stream             : AD-PCM Stream:0 (0xbd, 0xffa10000)
+num of packet      :        905
+stream file name   : C:\Users\andre\Desktop\007 - Quantum of Solace\DEMO_vag_0.ads
+
